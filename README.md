@@ -46,7 +46,7 @@ The project is a front end for the rails back end project.
 
 ## Backend Appp
 
-Click [here](https://github.com/jodavid444/Hello-Rails-Backend)
+Click [here](https://github.com/jodavid444/Hello-Rails-Backend/pull/1)
  to acess the backend app for this project 
 
 
