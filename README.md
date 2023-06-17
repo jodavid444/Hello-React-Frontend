@@ -114,7 +114,7 @@ DATABASE_PASSWORD=
 
 Contributions, issues, and feature requests are welcome!
 
-feel free to check the [issue page](https://github.com/jodavid444/Hello-rails-react/issues)
+feel free to check the [issue page](https://github.com/jodavid444/Hello-React-Frontend/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
